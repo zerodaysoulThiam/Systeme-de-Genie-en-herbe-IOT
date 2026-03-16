@@ -69,6 +69,7 @@ https://www.arduino.cc/en/software
 ### Installation
 1️⃣ Cloner le projet
 git clone https://github.com/ton-username/smartquiz-arduino.git
+
 2️⃣ Ouvrir le code
 
 Ouvrir le fichier dans Arduino IDE
